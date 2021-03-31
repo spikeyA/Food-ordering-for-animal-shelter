@@ -32,3 +32,7 @@ Test scenarios not covered are: -
     3.	Handling null value
     
     4.	Using the input file for the future months.
+
+
+Instructions for running Test from the command line:-
+    python Test.py  
