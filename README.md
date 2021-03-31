@@ -11,7 +11,7 @@ Animal shelter food ordering system is based on the following assumptions:-
     
     4.	Leftover food value can be float.
     
-   5.	Test case runs with input values
+    5.	Test case runs with input values
 
 Test cases covered are as below:-
 
